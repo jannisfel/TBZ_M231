@@ -38,22 +38,3 @@
 12. **Muss in einem ersten Moment etwas gesperrt werden? ApplePay, Kreditkarten, Zugriff in Gebäude?**
     - Ja, es wird empfohlen, sofort den Zugriff auf ApplePay, Kreditkarten und den Zugang zu sensiblen Orten zu sperren, falls die Geräte gestohlen wurden.
 
-# Passwörter, Ordnerstruktur und Backups
-
-### Sicherung von Passwörtern
-- Kombination aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen für Passwortkomplexität
-- Einzigartige Passwörter für jeden Account oder jedes System
-- Verwendung eines Passwort-Managers zur sicheren Speicherung und Verschlüsselung von Passwörtern
-- Aktivierung der Zwei-Faktor-Authentifizierung, sofern verfügbar, für zusätzliche Sicherheit
-
-### Or dnerstruktur
-- Organisation und Kategorisierung sensibler Informationen für schnellen Zugriff
-- Klare und intuitive Namenskonvention für Ordner und Unterordner
-- Erstellung separater Ordner für verschiedene Arten von Daten
-- Konsistente Ordnerstruktur über verschiedene Geräte hinweg
-
-### Backups
-- Befolgung der 3-2-1-Backup-Regel: drei Kopien der Daten, auf zwei verschiedenen Medientypen, eine Kopie extern
-- Regelmäßige Sicherung wichtiger Daten
-- Regelmäßige Tests der Backups, um Integrität und Wiederherstellbarkeit zu gewährleisten
-- Verwendung von automatisierten Backup-Lösungen zur Optimierung des Sicherungsprozesses und Minimierung menschlicher Fehler
